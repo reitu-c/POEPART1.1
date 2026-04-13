@@ -27,7 +27,7 @@ namespace CyberSecurityChatBot
             bot.StartChat();
 
             //Keep console open
-            ReadLine();
+          
         }
     }
 }
